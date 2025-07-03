@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Medical Report Analyzer
 
 A comprehensive web application for analyzing medical reports using Natural Language Processing (NLP) and AI techniques.
@@ -57,6 +56,3 @@ A comprehensive web application for analyzing medical reports using Natural Lang
 ## Notes
 
 - For full functionality, a Google Gemini API key is required
-=======
-# ArtificialIntelligence-SemesterProject
->>>>>>> origin/main
