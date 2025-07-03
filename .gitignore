@@ -1,0 +1,4 @@
+secrets.txt
+venv/
+# Ignore all .env files
+*.env
